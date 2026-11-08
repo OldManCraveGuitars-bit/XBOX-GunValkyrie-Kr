@@ -1,0 +1,1155 @@
+{
+  "native_primary_dialog_draw_cases": 28,
+  "extra_native_measurement_routes": 2,
+  "actual_retail_renderer_executed": true,
+  "retail_dialog_code_unchanged": true,
+  "previous_v12_load_dialog_errors": [
+    26.0,
+    35.0
+  ],
+  "previous_release_misalignment_detected": true,
+  "max_horizontal_error": 4.0,
+  "max_vertical_error": 0,
+  "halfwidth_space_pixels": 10,
+  "cases": [
+    {
+      "id": 8,
+      "language": "jp",
+      "selection": 0,
+      "native_width": 320,
+      "native_height": 120,
+      "label_center": -40.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 1.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          320,
+          120
+        ],
+        "frame_rect": [
+          132.0,
+          158.0,
+          376.0,
+          164.0
+        ],
+        "text_origin": [
+          -160.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 8,
+      "language": "jp",
+      "selection": 1,
+      "native_width": 320,
+      "native_height": 120,
+      "label_center": 50.0,
+      "cursor_center": 50.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          320,
+          120
+        ],
+        "frame_rect": [
+          132.0,
+          158.0,
+          376.0,
+          164.0
+        ],
+        "text_origin": [
+          -160.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          6.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 8,
+      "language": "en",
+      "selection": 0,
+      "native_width": 250,
+      "native_height": 120,
+      "label_center": -45.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 4.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          250,
+          120
+        ],
+        "frame_rect": [
+          167.0,
+          158.0,
+          306.0,
+          164.0
+        ],
+        "text_origin": [
+          -125.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 8,
+      "language": "en",
+      "selection": 1,
+      "native_width": 250,
+      "native_height": 120,
+      "label_center": 45.0,
+      "cursor_center": 45.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          250,
+          120
+        ],
+        "frame_rect": [
+          167.0,
+          158.0,
+          306.0,
+          164.0
+        ],
+        "text_origin": [
+          -125.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          1.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 9,
+      "language": "jp",
+      "selection": 0,
+      "native_width": 320,
+      "native_height": 120,
+      "label_center": -40.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 1.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          320,
+          120
+        ],
+        "frame_rect": [
+          132.0,
+          158.0,
+          376.0,
+          164.0
+        ],
+        "text_origin": [
+          -160.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 9,
+      "language": "jp",
+      "selection": 1,
+      "native_width": 320,
+      "native_height": 120,
+      "label_center": 50.0,
+      "cursor_center": 50.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          320,
+          120
+        ],
+        "frame_rect": [
+          132.0,
+          158.0,
+          376.0,
+          164.0
+        ],
+        "text_origin": [
+          -160.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          6.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 9,
+      "language": "en",
+      "selection": 0,
+      "native_width": 250,
+      "native_height": 96,
+      "label_center": -45.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 4.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          250,
+          96
+        ],
+        "frame_rect": [
+          167.0,
+          170.0,
+          306.0,
+          140.0
+        ],
+        "text_origin": [
+          -125.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 9,
+      "language": "en",
+      "selection": 1,
+      "native_width": 250,
+      "native_height": 96,
+      "label_center": 45.0,
+      "cursor_center": 45.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          250,
+          96
+        ],
+        "frame_rect": [
+          167.0,
+          170.0,
+          306.0,
+          140.0
+        ],
+        "text_origin": [
+          -125.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          1.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 179,
+      "language": "jp",
+      "selection": 0,
+      "native_width": 240,
+      "native_height": 96,
+      "label_center": -40.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 1.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          240,
+          96
+        ],
+        "frame_rect": [
+          172.0,
+          170.0,
+          296.0,
+          140.0
+        ],
+        "text_origin": [
+          -120.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 179,
+      "language": "jp",
+      "selection": 1,
+      "native_width": 240,
+      "native_height": 96,
+      "label_center": 50.0,
+      "cursor_center": 50.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          240,
+          96
+        ],
+        "frame_rect": [
+          172.0,
+          170.0,
+          296.0,
+          140.0
+        ],
+        "text_origin": [
+          -120.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          6.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 179,
+      "language": "en",
+      "selection": 0,
+      "native_width": 310,
+      "native_height": 96,
+      "label_center": -45.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 4.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          310,
+          96
+        ],
+        "frame_rect": [
+          137.0,
+          170.0,
+          366.0,
+          140.0
+        ],
+        "text_origin": [
+          -155.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 179,
+      "language": "en",
+      "selection": 1,
+      "native_width": 310,
+      "native_height": 96,
+      "label_center": 45.0,
+      "cursor_center": 45.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          310,
+          96
+        ],
+        "frame_rect": [
+          137.0,
+          170.0,
+          366.0,
+          140.0
+        ],
+        "text_origin": [
+          -155.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          1.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 223,
+      "language": "jp",
+      "selection": 0,
+      "native_width": 280,
+      "native_height": 144,
+      "label_center": -40.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 1.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          280,
+          144
+        ],
+        "frame_rect": [
+          152.0,
+          146.0,
+          336.0,
+          188.0
+        ],
+        "text_origin": [
+          -140.0,
+          -72.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          22.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 223,
+      "language": "jp",
+      "selection": 1,
+      "native_width": 280,
+      "native_height": 144,
+      "label_center": 50.0,
+      "cursor_center": 50.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          280,
+          144
+        ],
+        "frame_rect": [
+          152.0,
+          146.0,
+          336.0,
+          188.0
+        ],
+        "text_origin": [
+          -140.0,
+          -72.0
+        ],
+        "cursor_origin": [
+          6.0,
+          22.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 223,
+      "language": "en",
+      "selection": 0,
+      "native_width": 330,
+      "native_height": 96,
+      "label_center": -45.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 4.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          330,
+          96
+        ],
+        "frame_rect": [
+          127.0,
+          170.0,
+          386.0,
+          140.0
+        ],
+        "text_origin": [
+          -165.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 223,
+      "language": "en",
+      "selection": 1,
+      "native_width": 330,
+      "native_height": 96,
+      "label_center": 45.0,
+      "cursor_center": 45.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          330,
+          96
+        ],
+        "frame_rect": [
+          127.0,
+          170.0,
+          386.0,
+          140.0
+        ],
+        "text_origin": [
+          -165.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          1.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 225,
+      "language": "jp",
+      "selection": 0,
+      "native_width": 360,
+      "native_height": 120,
+      "label_center": -40.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 1.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          360,
+          120
+        ],
+        "frame_rect": [
+          112.0,
+          158.0,
+          416.0,
+          164.0
+        ],
+        "text_origin": [
+          -180.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 225,
+      "language": "jp",
+      "selection": 1,
+      "native_width": 360,
+      "native_height": 120,
+      "label_center": 50.0,
+      "cursor_center": 50.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          360,
+          120
+        ],
+        "frame_rect": [
+          112.0,
+          158.0,
+          416.0,
+          164.0
+        ],
+        "text_origin": [
+          -180.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          6.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 225,
+      "language": "en",
+      "selection": 0,
+      "native_width": 370,
+      "native_height": 120,
+      "label_center": -45.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 4.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          370,
+          120
+        ],
+        "frame_rect": [
+          107.0,
+          158.0,
+          426.0,
+          164.0
+        ],
+        "text_origin": [
+          -185.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 225,
+      "language": "en",
+      "selection": 1,
+      "native_width": 370,
+      "native_height": 120,
+      "label_center": 45.0,
+      "cursor_center": 45.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          370,
+          120
+        ],
+        "frame_rect": [
+          107.0,
+          158.0,
+          426.0,
+          164.0
+        ],
+        "text_origin": [
+          -185.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          1.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 226,
+      "language": "jp",
+      "selection": 0,
+      "native_width": 300,
+      "native_height": 120,
+      "label_center": -40.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 1.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          300,
+          120
+        ],
+        "frame_rect": [
+          142.0,
+          158.0,
+          356.0,
+          164.0
+        ],
+        "text_origin": [
+          -150.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 226,
+      "language": "jp",
+      "selection": 1,
+      "native_width": 300,
+      "native_height": 120,
+      "label_center": 50.0,
+      "cursor_center": 50.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          300,
+          120
+        ],
+        "frame_rect": [
+          142.0,
+          158.0,
+          356.0,
+          164.0
+        ],
+        "text_origin": [
+          -150.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          6.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 226,
+      "language": "en",
+      "selection": 0,
+      "native_width": 330,
+      "native_height": 96,
+      "label_center": -45.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 4.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          330,
+          96
+        ],
+        "frame_rect": [
+          127.0,
+          170.0,
+          386.0,
+          140.0
+        ],
+        "text_origin": [
+          -165.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 226,
+      "language": "en",
+      "selection": 1,
+      "native_width": 330,
+      "native_height": 96,
+      "label_center": 45.0,
+      "cursor_center": 45.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          330,
+          96
+        ],
+        "frame_rect": [
+          127.0,
+          170.0,
+          386.0,
+          140.0
+        ],
+        "text_origin": [
+          -165.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          1.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 321,
+      "language": "jp",
+      "selection": 0,
+      "native_width": 280,
+      "native_height": 120,
+      "label_center": -40.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 1.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          280,
+          120
+        ],
+        "frame_rect": [
+          152.0,
+          158.0,
+          336.0,
+          164.0
+        ],
+        "text_origin": [
+          -140.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 321,
+      "language": "jp",
+      "selection": 1,
+      "native_width": 280,
+      "native_height": 120,
+      "label_center": 50.0,
+      "cursor_center": 50.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          280,
+          120
+        ],
+        "frame_rect": [
+          152.0,
+          158.0,
+          336.0,
+          164.0
+        ],
+        "text_origin": [
+          -140.0,
+          -60.0
+        ],
+        "cursor_origin": [
+          6.0,
+          10.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 1,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 321,
+      "language": "en",
+      "selection": 0,
+      "native_width": 330,
+      "native_height": 96,
+      "label_center": -45.0,
+      "cursor_center": -41.0,
+      "horizontal_error": 4.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          330,
+          96
+        ],
+        "frame_rect": [
+          127.0,
+          170.0,
+          386.0,
+          140.0
+        ],
+        "text_origin": [
+          -165.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          -85.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 0,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    },
+    {
+      "id": 321,
+      "language": "en",
+      "selection": 1,
+      "native_width": 330,
+      "native_height": 96,
+      "label_center": 45.0,
+      "cursor_center": 45.0,
+      "horizontal_error": 0.0,
+      "vertical_error": 0,
+      "draw": {
+        "native_measured_size": [
+          330,
+          96
+        ],
+        "frame_rect": [
+          127.0,
+          170.0,
+          386.0,
+          140.0
+        ],
+        "text_origin": [
+          -165.0,
+          -48.0
+        ],
+        "cursor_origin": [
+          1.0,
+          -2.0
+        ],
+        "cursor_records": 2294684,
+        "cursor_sprites": 3,
+        "language": 0,
+        "selection": 1,
+        "transforms": {
+          "0x19ae80": 320.0,
+          "0x19aea0": 240.0,
+          "0x19af60": 1.0
+        }
+      }
+    }
+  ],
+  "extra_routes": [
+    {
+      "id": 471,
+      "native_measured_size": [
+        400,
+        48
+      ],
+      "original_absolute_label_centers_preserved": true
+    },
+    {
+      "id": 539,
+      "native_measured_size": [
+        360,
+        48
+      ],
+      "original_absolute_label_centers_preserved": true
+    }
+  ],
+  "gameplay_capture": false
+}

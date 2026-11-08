@@ -1,0 +1,49 @@
+{
+  "source": "user_provided_screenshots",
+  "usage": "GitHub README and release only",
+  "embedded_in_patcher": false,
+  "images": [
+    {
+      "file": "title.png",
+      "label": "타이틀",
+      "provided_filename": "4-Screenshot_20261108-144514.png",
+      "sha256": "138352f79c2cc4dbf8a7338674fa1181448cf30fddae96dfca97c4c110a36aad",
+      "modified": false
+    },
+    {
+      "file": "loading.png",
+      "label": "로딩",
+      "provided_filename": "1-Screenshot_20261108-144526.png",
+      "sha256": "9f36e4dd785c872bcf130a1126220a181dbed3316d1e5a521742ca65f3f1b89e",
+      "modified": false
+    },
+    {
+      "file": "opening-subtitles.png",
+      "label": "오프닝 자막",
+      "provided_filename": "3-Screenshot_20261108-144541.png",
+      "sha256": "b47b7440274a6eaf29202c778472576e1cb188850ced0d9292b98f87eebfc7d8",
+      "modified": false
+    },
+    {
+      "file": "load-game.png",
+      "label": "불러오기",
+      "provided_filename": "5-Screenshot_20261108-144619.png",
+      "sha256": "cc85edcd7c8f11c9f1ded6c6a1bf41c34582574bc01e0152e7dd27b253827ccf",
+      "modified": false
+    },
+    {
+      "file": "main-menu.png",
+      "label": "메인 메뉴",
+      "provided_filename": "2-Screenshot_20261108-144633.png",
+      "sha256": "f41af4549ae7b8f7140dcf6b02a6d9d72a030c4ab7a8525a45f99829c1a9ed0b",
+      "modified": false
+    },
+    {
+      "file": "weapon-menu.png",
+      "label": "무기 강화",
+      "provided_filename": "6-Screenshot_20261108-144646.png",
+      "sha256": "d641ea8b276a26e4bf3fa49391254358d45bf6d3677d43f381080319380b2de2",
+      "modified": false
+    }
+  ]
+}

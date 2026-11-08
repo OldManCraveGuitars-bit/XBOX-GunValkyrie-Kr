@@ -1,0 +1,18 @@
+{
+  "release_version": "V0.9",
+  "game_content_revision": 13,
+  "total_iso_files": 1366,
+  "modified_files": 180,
+  "original_file_positions_and_sizes_preserved": true,
+  "text_routes": 868,
+  "hangul_glyphs": 686,
+  "active_caption_regions": 679,
+  "native_dialog_draw_cases": 28,
+  "max_dialog_horizontal_error_pixels": 4.0,
+  "max_dialog_vertical_error_pixels": 0,
+  "back_base_and_flash_core_mismatch_pixels": 0,
+  "native_cache_files_matched": 17,
+  "physical_console_test_claimed": false,
+  "full_playthrough_claimed": false,
+  "user_supplied_screenshots": 6
+}

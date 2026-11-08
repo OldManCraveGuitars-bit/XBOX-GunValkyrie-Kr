@@ -1,0 +1,18 @@
+{
+  "format": "GVKR0901",
+  "version": "V0.9",
+  "block_bytes": 64,
+  "source_bytes": 722206720,
+  "output_bytes": 722206720,
+  "source_sha256": "33adbae5902b038ba42b156e7f4c2359008b4c02f34eefb05c56f1c6c126ce40",
+  "output_sha256": "c975cdf2f76514f1bc53657567d682443bc804c92dd202144326e1803519cbd4",
+  "copy_bytes": 708684416,
+  "literal_bytes": 12132928,
+  "zero_bytes": 1389376,
+  "operations": 45403,
+  "payload_bytes": 2097554,
+  "payload_sha256": "39cb14b727f715c8633c912a3373521710aed762e4051a7d701d345fcace4c78",
+  "game": "GUNVALKYRIE",
+  "language": "ko-KR",
+  "source_label": "Gun Valkyrie (Japan) (En,Ja).iso"
+}

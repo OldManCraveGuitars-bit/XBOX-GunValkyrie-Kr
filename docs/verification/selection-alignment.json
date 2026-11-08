@@ -1,0 +1,269 @@
+{
+  "back_selection_layers_verified": [
+    {
+      "path": "data/xbox/spr_save.spr",
+      "base_sprite": 60,
+      "flash_sprite": 10,
+      "screen_core_pixels": 207,
+      "mismatched_screen_core_pixels": 0,
+      "flash_pixels_outside_korean_label": 0
+    },
+    {
+      "path": "data/xbox/spr_load.spr",
+      "base_sprite": 60,
+      "flash_sprite": 10,
+      "screen_core_pixels": 207,
+      "mismatched_screen_core_pixels": 0,
+      "flash_pixels_outside_korean_label": 0
+    }
+  ],
+  "choice_routes_verified": 16,
+  "choices": [
+    {
+      "id": 8,
+      "language": "jp",
+      "width": 320,
+      "choice_row": 3,
+      "label_centers": [
+        -40.0,
+        50.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        50.0
+      ],
+      "max_center_error": 1.0
+    },
+    {
+      "id": 8,
+      "language": "en",
+      "width": 250,
+      "choice_row": 3,
+      "label_centers": [
+        -45.0,
+        45.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        45.0
+      ],
+      "max_center_error": 4.0
+    },
+    {
+      "id": 9,
+      "language": "jp",
+      "width": 320,
+      "choice_row": 3,
+      "label_centers": [
+        -40.0,
+        50.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        50.0
+      ],
+      "max_center_error": 1.0
+    },
+    {
+      "id": 9,
+      "language": "en",
+      "width": 250,
+      "choice_row": 2,
+      "label_centers": [
+        -45.0,
+        45.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        45.0
+      ],
+      "max_center_error": 4.0
+    },
+    {
+      "id": 179,
+      "language": "jp",
+      "width": 240,
+      "choice_row": 2,
+      "label_centers": [
+        -40.0,
+        50.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        50.0
+      ],
+      "max_center_error": 1.0
+    },
+    {
+      "id": 179,
+      "language": "en",
+      "width": 310,
+      "choice_row": 2,
+      "label_centers": [
+        -45.0,
+        45.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        45.0
+      ],
+      "max_center_error": 4.0
+    },
+    {
+      "id": 223,
+      "language": "jp",
+      "width": 280,
+      "choice_row": 4,
+      "label_centers": [
+        -40.0,
+        50.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        50.0
+      ],
+      "max_center_error": 1.0
+    },
+    {
+      "id": 223,
+      "language": "en",
+      "width": 330,
+      "choice_row": 2,
+      "label_centers": [
+        -45.0,
+        45.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        45.0
+      ],
+      "max_center_error": 4.0
+    },
+    {
+      "id": 225,
+      "language": "jp",
+      "width": 360,
+      "choice_row": 3,
+      "label_centers": [
+        -40.0,
+        50.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        50.0
+      ],
+      "max_center_error": 1.0
+    },
+    {
+      "id": 225,
+      "language": "en",
+      "width": 370,
+      "choice_row": 3,
+      "label_centers": [
+        -45.0,
+        45.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        45.0
+      ],
+      "max_center_error": 4.0
+    },
+    {
+      "id": 226,
+      "language": "jp",
+      "width": 300,
+      "choice_row": 3,
+      "label_centers": [
+        -40.0,
+        50.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        50.0
+      ],
+      "max_center_error": 1.0
+    },
+    {
+      "id": 226,
+      "language": "en",
+      "width": 330,
+      "choice_row": 2,
+      "label_centers": [
+        -45.0,
+        45.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        45.0
+      ],
+      "max_center_error": 4.0
+    },
+    {
+      "id": 321,
+      "language": "jp",
+      "width": 280,
+      "choice_row": 3,
+      "label_centers": [
+        -40.0,
+        50.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        50.0
+      ],
+      "max_center_error": 1.0
+    },
+    {
+      "id": 321,
+      "language": "en",
+      "width": 330,
+      "choice_row": 2,
+      "label_centers": [
+        -45.0,
+        45.0
+      ],
+      "cursor_centers": [
+        -41.0,
+        45.0
+      ],
+      "max_center_error": 4.0
+    },
+    {
+      "id": 471,
+      "language": "extra",
+      "width": 400,
+      "choice_row": 1,
+      "label_centers": [
+        30.0,
+        120.0
+      ],
+      "cursor_centers": [
+        30.0,
+        120.0
+      ],
+      "max_center_error": 0.0
+    },
+    {
+      "id": 539,
+      "language": "extra",
+      "width": 360,
+      "choice_row": 1,
+      "label_centers": [
+        60.0,
+        150.0
+      ],
+      "cursor_centers": [
+        60.0,
+        155.0
+      ],
+      "max_center_error": 5.0
+    }
+  ],
+  "paragraph_width_included": true,
+  "choice_word_widths_included": true,
+  "max_choice_center_error_pixels": 5.0,
+  "native_halfwidth_space_pixels": 10,
+  "new_code_patches": 0,
+  "gameplay_capture": false
+}

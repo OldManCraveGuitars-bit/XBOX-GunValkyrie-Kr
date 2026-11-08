@@ -1,0 +1,4 @@
+a60a2790c7d523a7e32163634fbb8b60a46f68a072deee7e495255e2033bc750  XBOX-GunValkyrie-Kr-v0.9-Patcher.exe
+fd1e14da24f49ad77cbebd8476e82ee162efebef56e43d201eef20cbaffe46a3  XBOX-GunValkyrie-Kr-v0.9.zip
+39cb14b727f715c8633c912a3373521710aed762e4051a7d701d345fcace4c78  GunValkyrie-Kr-v0.9.gvpatch
+8b63c5d10dd132caf7e749acf8cfc6ac155f29eb1ea84ddb56ab282d0c2a8878  HASHES.txt
